@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dark-Awesome
-- 👀 I’m interested in Deep Learning, Data Science, Mathematics and Engineering application through code.
-- 💞️ I’m looking to collaborate on exiting projects on ML, DL or data science, or anything cool.
+- 👀 I wanna be a engineering researcher!
+- 💞️ I’m looking to collaborate in research that gives me kick! Can be anything! 
 - 📫 How to reach me : Twitter -> @IM_Meghanshu
 
 <!---
