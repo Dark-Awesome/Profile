@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dark-Awesome
-- 👀 I wanna be a engineering researcher!
+- 👀 I wanna be an engineering researcher!
 - 💞️ I’m looking to collaborate in research that gives me kick! Can be anything! 
 - 📫 How to reach me : Twitter -> @IM_Meghanshu
 
