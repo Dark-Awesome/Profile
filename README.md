@@ -1,9 +1,9 @@
 <h1 align="center">I'm Meghanshu Verma</h1>
 <h3 align="center">🐘 Research Interest: Time Series Prediction, Object Detection & Localization, Bio-Medical Imaging.</h3>
 
-- 🔭 I’m currently working on **Image Restoration, Anomaly Detection**
+- 🔭 I’m currently working on **Image Restoration, Anomaly Detection**.
 
-- 🌱 I’m currently learning **Quantum Computing**
+- 🌱 I’m currently learning **Quantum Computing**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
